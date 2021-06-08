@@ -1,6 +1,6 @@
 # JS-30-DAY-8
 
-##<center>Fun with HTML5 Canvas</center>
+**<center>Fun with HTML5 Canvas</center>**
 
 ![img](./ss.png)
 
