@@ -7,5 +7,5 @@
 ##Lessons Learned:
 
 - learned how to use HTML5 Canvas
-- learned use of `hsl()`
+- learned use of [`hsl()`](https://mothereffinghsl.com/)
 - used `eventListeners()` like `mousemove` `mouseup` `mousedown` `mouseout`
